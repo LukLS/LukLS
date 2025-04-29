@@ -20,7 +20,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
   
-![GitHub Stats](https://meus-commits-gamma.vercel.app/api?username=LukLS&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://my-commits-gamma.vercel.app/api?username=LukLS&show_icons=true&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukLS&layout=compact)
   
   
